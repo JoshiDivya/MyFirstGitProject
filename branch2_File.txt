@@ -1,0 +1,2 @@
+#Text in Branch2 File
+Text in branch2
