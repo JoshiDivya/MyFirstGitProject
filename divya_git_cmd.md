@@ -1,4 +1,4 @@
-** Commands and operations ** :
+**Commands and operations** :
 Created Repository
  * master
  * branch1
